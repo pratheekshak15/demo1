@@ -1,4 +1,4 @@
 # demo1
-this is my git repository
+this is my  first github repository
 <br>
 author-pratheeksha
